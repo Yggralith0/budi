@@ -30,7 +30,7 @@
   {
     "model": "myapp.Students",
     "fields": {
-      "name": "Jack",
+      "name": "Budi",
       "age": "18"
     }
   },
