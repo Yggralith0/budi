@@ -38,7 +38,7 @@
     "model": "myapp.Students",
     "fields": {
       "name": "Hubris",
-      "age": "30"
+      "age": "50"
     }
   }
 ]
